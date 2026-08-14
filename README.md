@@ -19,7 +19,7 @@ Um estudante entra em atenção quando possuir ao menos uma das condições abai
 
 | Indicador | Regra |
 | --- | --- |
-| Desempenho | Media inferior a 5,0 |
+| Desempenho | Média inferior a 5,0 |
 | Frequencia | Percentual inferior a 75% |
 
 ## Estrutura
