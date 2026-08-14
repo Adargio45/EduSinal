@@ -1,8 +1,8 @@
 # EduSinal
 
-Aplicacao de terminal em Java para registrar dados de uma turma e apontar estudantes que precisam de atencao com base em desempenho escolar e frequencia.
+Aplicacao de terminal em Java para registrar dados de uma turma e apontar estudantes que precisam de atenção com base em seu desempenho escolar e frequencia.
 
-> Este projeto usa apenas dados digitados durante a execucao. Nao inclua dados reais de estudantes em repositorios publicos.
+> Este projeto usa apenas dados digitados durante a execução. Nao inclua dados reais de estudantes em repositorios públicos.
 
 ## Funcionalidades
 
