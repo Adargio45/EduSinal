@@ -7,9 +7,9 @@ Aplicacao de terminal em Java para registrar dados de uma turma e apontar estuda
 ## Funcionalidades
 
 - Cadastro de turma e estudantes pelo terminal;
-- Registro de notas e presencas;
+- Registro de notas e presenças;
 - Validacao de dados informados pelo usuario;
-- Calculo de media das avaliacoes;
+- Calculo de media das avaliações;
 - Calculo do percentual de frequencia;
 - Relatorio com estudantes em atencao.
 
