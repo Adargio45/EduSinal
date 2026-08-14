@@ -27,11 +27,11 @@ Um estudante entra em atenção quando possuir ao menos uma das condições abai
 ```text
 src/
 ├── Main.java                # ponto de entrada
-├── SistemaEduSinal.java     # fluxo da aplicacao e relatorio
-├── EntradaDados.java        # interacao e validacao pelo terminal
+├── SistemaEduSinal.java     # fluxo da aplicação e relatório
+├── EntradaDados.java        # interacao e validação pelo terminal
 ├── Turma.java               # entidade turma
 ├── Estudante.java           # entidade estudante
-└── MotorIndicadores.java    # regras de negocio
+└── MotorIndicadores.java    # regras de negócio
 ```
 
 ## Como executar
