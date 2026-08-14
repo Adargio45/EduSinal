@@ -11,11 +11,11 @@ Aplicacao de terminal em Java para registrar dados de uma turma e apontar estuda
 - Validacao de dados informados pelo usuario;
 - Calculo de media das avaliações;
 - Calculo do percentual de frequencia;
-- Relatorio com estudantes em atencao.
+- Relatorio com estudantes em atenção.
 
 ## Regras de indicadores
 
-Um estudante entra em atencao quando possuir ao menos uma das condicoes abaixo:
+Um estudante entra em atenção quando possuir ao menos uma das condições abaixo:
 
 | Indicador | Regra |
 | --- | --- |
