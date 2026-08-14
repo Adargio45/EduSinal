@@ -52,9 +52,9 @@ Digite a quantidade de estudantes: 1
 
 ----- Estudante 1 -----
 Nome: Joana
-Quantas avaliacoes deseja cadastrar? 2
-Digite a nota da avaliacao 1: 4
-Digite a nota da avaliacao 2: 5
+Quantas avaliações deseja cadastrar? 2
+Digite a nota da avaliação 1: 4
+Digite a nota da avaliação 2: 5
 Quantas aulas deseja registrar? 4
 O estudante esteve presente na aula 1? (S/N): S
 O estudante esteve presente na aula 2? (S/N): S
@@ -62,7 +62,7 @@ O estudante esteve presente na aula 3? (S/N): N
 O estudante esteve presente na aula 4? (S/N): N
 
 Estudante: Joana
-Situacao: EM ATENCAO
+Situacao: EM ATENÇÃO
 - Baixo desempenho escolar.
 - Frequencia abaixo de 75%.
 ```
@@ -70,9 +70,9 @@ Situacao: EM ATENCAO
 ## Tecnologias e conceitos
 
 - Java
-- Programacao orientada a objetos
+- Programação orientada a objetos
 - Encapsulamento
-- Separacao de responsabilidades
+- Separação de responsabilidades
 - Collections (`List`)
 
 ## Proximos passos
